@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imaginato</string>
+
+    <string name="login_text">Login</string>
+    <string name="email_address">Username</string>
+    <string name="password">Password</string>
+
+
+</resources>
